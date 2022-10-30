@@ -7,7 +7,7 @@ python -m venv grpc-env
 
 ### Activate the virtual environnement 
 ```bash
-grpc-enc\Scripts\Activate
+grpc-env\Scripts\Activate
 ```
 
 ### Install Requirements
